@@ -335,11 +335,12 @@ class FroelingKesselCard extends BaseFroelingCard {
                 'obj_flame': {
                     entity: 'sensor.froeling_kesselzustand',
                     stateClasses: {
-                        'Veille': 'st4',
-                        'Brûleur actif': 'stHeatingOn',
-                        'Préchauffage': 'st99',
-                        'Démarrage': 'st9',
-                        'Arrêt': 'stHeatingOff'
+                        'Vorheizen': 'st4',
+                        'Heizen': 'stHeatingOn',
+                        'SH Heizen': 'stHeatingOn',
+                        'Feuererhaltung': 'st99',
+                        'Feuer Aus': 'st9',
+                        'default': 'stHeatingOff'
                     }
                 },
                 'obj_pump': {
@@ -392,11 +393,12 @@ class FroelingZweitKesselCard extends BaseFroelingCard {
                 'obj_flame': {
                     entity: 'sensor.froeling_zweitkessel_zustand',
                     stateClasses: {
-                        'Veille': 'st4',
-                        'Brûleur actif': 'stHeatingOn',
-                        'Préchauffage': 'st99',
-                        'Démarrage': 'st9',
-                        'Arrêt': 'stHeatingOff'
+                        'Vorheizen': 'st4',
+                        'Heizen': 'stHeatingOn',
+                        'SH Heizen': 'stHeatingOn',
+                        'Feuererhaltung': 'st99',
+                        'Feuer Aus': 'st9',
+                        'default': 'stHeatingOff'
                     }
                 },
             },
@@ -455,11 +457,12 @@ class FroelingKesselOhnePelletsCard extends BaseFroelingCard {
                 'obj_flame': {
                     entity: 'sensor.froeling_kesselzustand',
                     stateClasses: {
-                        'Veille': 'st4',
-                        'Brûleur actif': 'stHeatingOn',
-                        'Préchauffage': 'st99',
-                        'Démarrage': 'st9',
-                        'Arrêt': 'stHeatingOff'
+                        'Vorheizen': 'st4',
+                        'Heizen': 'stHeatingOn',
+                        'SH Heizen': 'stHeatingOn',
+                        'Feuererhaltung': 'st99',
+                        'Feuer Aus': 'st9',
+                        'default': 'stHeatingOff'
                     }
                 },
                 'obj_pump': {
