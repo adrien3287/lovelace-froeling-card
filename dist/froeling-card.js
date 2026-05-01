@@ -338,7 +338,7 @@ class FroelingKesselCard extends BaseFroelingCard {
                         'Vorheizen': 'st4',
                         'Heizen': 'stHeatingOn',
                         'SH Heizen': 'stHeatingOn',
-                        'Feuererhaltung': 'st6',
+                        'Feuererhaltung': 'st99',
                         'Feuer Aus': 'st9',
                         'default': 'stHeatingOff'
                     }
@@ -396,7 +396,7 @@ class FroelingZweitKesselCard extends BaseFroelingCard {
                         'Vorheizen': 'st4',
                         'Heizen': 'stHeatingOn',
                         'SH Heizen': 'stHeatingOn',
-                        'Feuererhaltung': 'st6',
+                        'Feuererhaltung': 'st99',
                         'Feuer Aus': 'st9',
                         'default': 'stHeatingOff'
                     }
@@ -460,7 +460,7 @@ class FroelingKesselOhnePelletsCard extends BaseFroelingCard {
                         'Vorheizen': 'st4',
                         'Heizen': 'stHeatingOn',
                         'SH Heizen': 'stHeatingOn',
-                        'Feuererhaltung': 'st6',
+                        'Feuererhaltung': 'st99',
                         'Feuer Aus': 'st9',
                         'default': 'stHeatingOff'
                     }
