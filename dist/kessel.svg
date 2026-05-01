@@ -8,15 +8,16 @@
 	.stPumpActive{fill:#87AD27;}
 	.stPumpInActive{fill:#BBBBBB;}
 	.stHeatingOn{fill-rule:evenodd;clip-rule:evenodd;fill:#FF3232;}
-	.stHeatingOff{fill-rule:evenodd;clip-rule:evenodd;fill:#BBBBBB;}
+	.stHeatingOff{fill-rule:evenodd;clip-rule:evenodd;fill:#AD8027;}
 	.st0{fill:#6E8CA0;}
 	.st1{fill:#C86464;}
 	.st2{fill:#646464;}
 	.st3{clip-path:url(#SVGID_2_);}
-	.st4{fill:#AC7E27;}
+	.st4{fill:#87AD27;}
 	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#FF3232;}
 	.st6{fill:#FFFFFF;stroke:#C8C8C8;stroke-width:1.0555;stroke-miterlimit:10;}
 	.st7{fill:#C8C8C8;}
+	.st99{fill:#DEE051;}
 	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#646464;}
 	.st9{fill:#87AD27;}	.st10{font-family:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto,Arial,Helvetica,sans-serif;font-specification:'Roboto,Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;}
 	.st11{font-size:14px;}
